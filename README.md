@@ -1,5 +1,3 @@
-Web application developer.
-
 Contact:
 
 - **web**: [sevacode.com](https://www.sevacode.com)
