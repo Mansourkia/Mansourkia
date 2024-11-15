@@ -1,4 +1,3 @@
 Website CMS Developer.
 
-My site: [
-(https://sevacode.com)[sevacode.com]
+My site: [sevacode.com](https://sevacode.com)
